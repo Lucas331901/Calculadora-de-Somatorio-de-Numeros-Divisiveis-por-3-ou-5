@@ -1,5 +1,3 @@
-# Desafio-1
-Desafio técnico da Escribo:
 Calculadora de Somatório de Números Divisíveis por 3 ou 5
 
 
